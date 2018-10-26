@@ -1,2 +1,3 @@
-cccccccccccc
-branch1 modified
+ccccccddddd
+branch1      modified
+master modified
